@@ -24,3 +24,4 @@ opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 stawky/m3e-large-api:latest
 dreamplay/hello_rerank:latest
+
